@@ -1,1 +1,1 @@
-![](../../../../var/folders/1j/2t1y1q554cnddh6hmbnkq6300000gn/T/TemporaryItems/NSIRD_screencaptureui_dKNeXU/Снимок экрана 2022-05-27 в 18.05.38.png)
+# Study task
