@@ -3,3 +3,4 @@ config.py
 extract_values.py
 insert_values.py
 main.py
+.idea
